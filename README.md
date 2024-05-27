@@ -1,3 +1,4 @@
+<strong>Edit: </strong> Use 0.0001 learning rate and after 10 epochs you can have accuracy upto 99.5% accuracy
 # Distracted Driver Detection
 
 **Domain**: Computer Vision & Artificial Neural Networks (ANN)
